@@ -4,7 +4,7 @@ NeoForge 1.21.1 gun library maintenance fork with resource loading improvements.
 
 <!-- ashley-release-information -->
 
-## Ashley's builds
+## My builds
 
 This is an unofficial maintenance fork. Original authors retain ownership and credit. See the [upstream project](https://github.com/Jetug/NukaTeamGunLib) for the original mod. Local changes do not imply upstream endorsement.
 
